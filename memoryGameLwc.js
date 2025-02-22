@@ -30,7 +30,7 @@ export default class MemoryGameLwc extends LightningElement {
       ]
 
       get gameRating(){
-          let stars =  this.moves<12 ? [1,2,3]:this.moves>=13 ? [1,2]:[1]
+          let stars =  this.moves<12 ? [1,2,3]:this.moves<19 ? [1,2]:[1]
         return this.matchedCard.length ===16 ? stars :[]
         }
       displayCard(event){
