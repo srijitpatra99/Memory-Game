@@ -10,14 +10,14 @@ A fun and interactive **Memory Game** built using **Lightning Web Components (LW
 - ⚡ **Optimized for Salesforce Lightning Experience**
 
 ## 📸 Screenshots
-**LOGIN PAGE**
-![Start](https://github.com/srijitpatra99/To-Do-List-App/blob/master/images/Login.png?raw=true)
+**BEGIN**
+![Start](https://github.com/srijitpatra99/Memory-Game/blob/main/Screenshot%202025-02-22%20220128.png?raw=true)
  
- **SIGNUP PAGE**
- ![Inprogess](https://github.com/srijitpatra99/To-Do-List-App/blob/master/images/SignUp.png?raw=true)
+ **IN PROGRESS**
+ ![Inprogess](https://github.com/srijitpatra99/Memory-Game/blob/main/Screenshot%202025-02-22%20220340.png?raw=true)
  
- **TASK FORM PAGE**
- ![Winner](https://github.com/srijitpatra99/To-Do-List-App/blob/master/images/Task%20Form.png?raw=true)
+ **WINNER**
+ ![Winner](https://github.com/srijitpatra99/Memory-Game/blob/main/Screenshot%202025-02-22%20220538.png?raw=true)
 
 ## 🛠️ Installation & Setup
 
